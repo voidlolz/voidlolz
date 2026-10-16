@@ -11,3 +11,5 @@ hello
     <img src="https://lastly-voidlolz.vercel.app/api/now-playing?theme=arsh" alt="now playing" width="820"/>
   </picture>
 </div>
+
+*readme inspired by [arshnah)](https://github.com/arshnah).*
