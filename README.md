@@ -12,4 +12,4 @@ hello
   </picture>
 </div>
 
-*readme inspired by [arshnah)](https://github.com/arshnah).*
+*readme inspired by [arshnah](https://github.com/arshnah).*
